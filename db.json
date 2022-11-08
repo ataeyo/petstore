@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": 1,
+    "name": "Pet 1",
+    "tag": "Tag 1"
+  },
+  {
+    "id": 2,
+    "name": "Pet 2",
+    "tag": "Tag 2"
+  },
+  {
+    "id": 3,
+    "name": "Pet 3",
+    "tag": "Tag 3"
+  }
+]
